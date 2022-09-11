@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(238, 186, 231);
+}
+h1{
+    text-align: center;
+    margin: 250px;
+    border: solid 20px rgb(241, 21, 186);
+    background-color: aqua;
+    padding: 50px; outline: solid 20px rebeccapurple; 
+    width: 120px;
+    margin-left: 570px;
+    outline-style: ridge;
+}
+
